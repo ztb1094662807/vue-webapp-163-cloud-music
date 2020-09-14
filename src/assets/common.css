@@ -1,0 +1,41 @@
+.Recommend .van-sticky .van-nav-bar >div > i {
+  color: #fff !important;
+}
+.Recommend .van-sticky .van-nav-bar >div > span {
+  color: #fff !important;
+}
+.Recommend > div > .van-sticky {
+  background: linear-gradient( 135deg, rgb(142, 132, 133) 0%, rgb(230, 132, 110) 100% ) !important;
+}
+.Recommend .van-hairline--bottom::after{
+  border-bottom-width: 0;
+}
+.SongSheetPage .van-sticky .van-nav-bar >div > i {
+  color: #000 !important;
+}
+.SongSheetPage .van-sticky .van-nav-bar >div > span {
+  color: #000 !important;
+}
+.SongSheetPage > div > .van-sticky {
+  background: #ddd !important;
+}
+.SongSheetPage .van-hairline--bottom::after{
+  border-bottom-width: 0;
+}
+.van-sticky .van-nav-bar >div > i {
+  color: #000 !important;
+}
+ .van-sticky .van-nav-bar >div > span {
+  color: #000 !important;
+}
+.RankPage > div > .van-sticky > .van-nav-bar {
+  background: #eee !important;
+}
+.SearchPage .van-sticky{
+  height: 90px;
+  background-color: #fff;
+  /* border: 1px solid; */
+}
+.HotSearchList .van-tag--default{
+  padding: 5px 25px;
+}
