@@ -1,20 +1,5 @@
 # vue-webapp-163-cloud-music
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
 ## 文件目录结构
 
 ```js
@@ -74,5 +59,23 @@ yarn build
 │   │   └── Home.vue 主页面
 ├── App.vue 入口组件
 └──main.js 项目核心文件
+```
+
+## Project setup
+
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+
+```
+yarn build
 ```
 
